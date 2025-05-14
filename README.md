@@ -11,3 +11,9 @@ aws configure --profile aws-admin
 ``` powersehl
 aws sts get-caller-identity --profile aws-admin
 ```
+
+## Entension VS 2022
+
+![image](https://github.com/user-attachments/assets/293214f9-ac1c-48d3-9e8e-1731678f57ee)
+
+
