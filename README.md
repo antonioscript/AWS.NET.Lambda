@@ -1,5 +1,5 @@
-# AWS.NET.Lambda
-.NET application showing the functionality of using AWS lambda
+# Lambda AWS .NET
+.NET application showing the functionality of using AWS Lambda
 
 ## Login CLI
 ``` powersehl
