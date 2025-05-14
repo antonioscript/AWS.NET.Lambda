@@ -14,7 +14,8 @@ aws sts get-caller-identity --profile aws-admin
 
 ## Entension VS 2022
 
-![image](https://github.com/user-attachments/assets/293214f9-ac1c-48d3-9e8e-1731678f57ee)
+![image](https://github.com/user-attachments/assets/bc0c777c-88bd-40af-9bb9-da0ca6900e00)
+https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.AWSToolkitforVisualStudio2022
 
 ## Templates AWS
 ```powershel
