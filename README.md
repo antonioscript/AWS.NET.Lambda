@@ -8,7 +8,7 @@ aws configure --profile aws-admin
 ![image](https://github.com/user-attachments/assets/0853554a-bdc1-47dc-9fe7-e39bd98f0453)
 
 ### Test to see if it worked
-``` powersehl
+``` powershel
 aws sts get-caller-identity --profile aws-admin
 ```
 
@@ -16,4 +16,8 @@ aws sts get-caller-identity --profile aws-admin
 
 ![image](https://github.com/user-attachments/assets/293214f9-ac1c-48d3-9e8e-1731678f57ee)
 
+## Templates AWS
+```powershel
+dotnet new -i Amazon.Lambda.Templates
+```
 
