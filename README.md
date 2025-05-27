@@ -54,6 +54,9 @@ This project demonstrates how to create and publish a .NET application using **A
 
 ![image](https://github.com/user-attachments/assets/de36cbce-d971-4c1c-98e0-4adf05ec2da6)
 
+![image](https://github.com/user-attachments/assets/ae4f22a2-fc59-4980-a84e-37a4fe6da6bc)
+
+
 
 
 ## NuGet Packages
