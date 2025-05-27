@@ -2,6 +2,7 @@
 
 This project demonstrates how to create and publish a .NET application using **AWS Lambda** integrated with **Amazon DynamoDB**.
 
+### Summary
 
 - [Lambda](#Publish-to-AWS-Lambda)
 - [API Gateway](#API-Gateway)
