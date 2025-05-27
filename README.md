@@ -6,6 +6,7 @@ This project demonstrates how to create and publish a .NET application using **A
 
 - [Lambda](#Lambda)
 - [API Gateway](#API-Gateway)
+- [SQS](#SQS)
 - [Test API](#Test-API)
 - [NuGet Packages](#NuGet-Packages)
 
@@ -88,6 +89,72 @@ Click on stateges and take on Invoke URL
 Click on Triggers and Configuration
 
 ![image](https://github.com/user-attachments/assets/ac59b1c7-cd9d-44c4-81bc-1800423f98c7)
+
+
+## SQS
+
+### Create Project Visual Studio
+
+![image](https://github.com/user-attachments/assets/7f1d643e-25b6-46a7-a993-01adffb5453e)
+
+
+### Create Queue On Amazon Console 
+
+
+![image](https://github.com/user-attachments/assets/e2d2a299-d194-47c6-bff8-92fd2cc725b4)
+
+**Default Configuration**
+![image](https://github.com/user-attachments/assets/0eed4215-7d19-473b-b7ee-b13b497c2866)
+
+**Overview**
+![image](https://github.com/user-attachments/assets/cfd7a919-95f1-4f95-b13f-310114002a9b)
+
+
+### Add Trigger
+
+![image](https://github.com/user-attachments/assets/523e0e36-0bf3-4f28-82dd-2a755bdcb382)**
+
+**Choose source and configuration**
+
+![image](https://github.com/user-attachments/assets/029cd987-5fe5-4995-aed2-7df69df9fff9)
+
+**Overview**
+
+![image](https://github.com/user-attachments/assets/a71f0b0f-61a7-41ed-ae71-a2e863293d7b)
+
+### Test SQS
+
+Go to SQS and click on 'Send and receibe messages'
+![image](https://github.com/user-attachments/assets/a9d7c6e2-8664-4308-a831-d7842377ccf1)
+
+## SNS
+
+### Create Project Visual Studio
+
+![image](https://github.com/user-attachments/assets/d144d388-f4e7-405d-ae05-5c51ed868916)
+
+
+**Publish**
+
+![image](https://github.com/user-attachments/assets/ff3f5a41-e4e0-4da7-b15e-0968a3fad4c7)
+
+
+**Overview**
+
+![image](https://github.com/user-attachments/assets/c9bfbfe8-fcc7-4f7d-8f04-9911a09f4093)
+
+
+### Create SNS on Console
+
+![image](https://github.com/user-attachments/assets/867bbfad-20b4-4779-882c-3c3d52d5fdcd)
+
+**Create on default configuration**
+
+![image](https://github.com/user-attachments/assets/9aff956f-d5fd-47bf-985c-b752df82a286)
+
+**Overview**
+
+![image](https://github.com/user-attachments/assets/4c0c0ebe-09d0-4242-b7a4-f8f8deb0fec6)
 
 
 ## Test API
