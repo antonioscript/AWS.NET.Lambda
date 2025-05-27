@@ -32,6 +32,12 @@ This project demonstrates how to create and publish a .NET application using **A
 
    ![Test Lambda](https://github.com/user-attachments/assets/154c3726-a6ff-46e3-9bf2-6b7075017d03)
 
+## API Gateway
+
+Create a route
+![image](https://github.com/user-attachments/assets/ef5e67bd-10e2-4439-a606-3243acdfea0c)
+
+
 ## NuGet Packages
 
 To enable interaction between your Lambda function and DynamoDB, install the following NuGet package:
