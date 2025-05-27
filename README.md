@@ -72,14 +72,14 @@ Click on Triggers and Configuration
 ![image](https://github.com/user-attachments/assets/ac59b1c7-cd9d-44c4-81bc-1800423f98c7)
 
 
-## Test
+## Test API
 
 1. **GET**
    
 ![image](https://github.com/user-attachments/assets/f243b6b3-9b97-4ae0-83c0-d6da8c165dec)
 
 
-3. **POST**
+2. **POST**
 
 ![image](https://github.com/user-attachments/assets/07144606-7d6b-4c53-8365-ef2755193df6)
 
