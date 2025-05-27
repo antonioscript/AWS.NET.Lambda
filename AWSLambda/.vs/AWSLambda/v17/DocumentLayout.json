@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|c:\\newprojects\\aws.net.lambda\\awslambda\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|c:\\newprojects\\aws.net.lambda\\awslambda\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|solutionrelative:aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|c:\\newprojects\\aws.net.lambda\\awslambda\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|c:\\newprojects\\aws.net.lambda\\awslambda\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E828FE9-22D1-4B40-9C5F-6A5DDC5ABEBB}|AWSLambda.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +38,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T21:05:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "aws-lambda-tools-defaults.json",
               "DocumentMoniker": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\aws-lambda-tools-defaults.json",
               "RelativeDocumentMoniker": "aws-lambda-tools-defaults.json",
@@ -43,13 +63,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAcwLIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:16:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Function.cs",
               "DocumentMoniker": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\Function.cs",
               "RelativeDocumentMoniker": "Function.cs",
               "ToolTip": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\Function.cs",
               "RelativeToolTip": "Function.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T03:39:59.136Z",
               "EditorCaption": ""

@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[2.5.0, )"
