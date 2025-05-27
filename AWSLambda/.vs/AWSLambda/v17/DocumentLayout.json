@@ -57,8 +57,7 @@
               "RelativeToolTip": "aws-lambda-tools-defaults.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T03:41:25.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:41:25.742Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "RelativeToolTip": "..\\..\\..\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
               "ViewState": "AQIAAJsAAAAAAAAAAAAcwLIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:16:59.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T20:16:59.154Z"
             },
             {
               "$type": "Document",
@@ -81,7 +79,7 @@
               "RelativeDocumentMoniker": "Function.cs",
               "ToolTip": "C:\\NewProjects\\AWS.NET.Lambda\\AWSLambda\\Function.cs",
               "RelativeToolTip": "Function.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAANAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T03:39:59.136Z",
               "EditorCaption": ""

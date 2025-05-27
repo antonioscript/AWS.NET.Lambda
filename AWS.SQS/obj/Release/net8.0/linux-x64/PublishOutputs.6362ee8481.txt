@@ -1,0 +1,7 @@
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\AWS.SQS.deps.json
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\AWS.SQS.runtimeconfig.json
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\AWS.SQS.pdb
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SQS\bin\Release\net8.0\publish\AWS.SQS.dll

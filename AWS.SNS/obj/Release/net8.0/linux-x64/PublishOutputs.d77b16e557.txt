@@ -1,0 +1,7 @@
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\AWS.SNS.deps.json
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\AWS.SNS.runtimeconfig.json
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\AWS.SNS.pdb
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\NewProjects\AWS.NET.Lambda\AWS.SNS\bin\Release\net8.0\publish\AWS.SNS.dll
