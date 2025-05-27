@@ -56,6 +56,21 @@ This project demonstrates how to create and publish a .NET application using **A
 
 ![image](https://github.com/user-attachments/assets/ae4f22a2-fc59-4980-a84e-37a4fe6da6bc)
 
+6. **Take endpoints**
+
+**API Gateway**
+
+Click on stateges and take on Invoke URL
+
+![image](https://github.com/user-attachments/assets/c4b17eac-8b6f-490d-a225-dd58e2255d3c)
+
+
+**Lambda**
+
+Click on Triggers and Configuration
+
+![image](https://github.com/user-attachments/assets/ac59b1c7-cd9d-44c4-81bc-1800423f98c7)
+
 
 
 
