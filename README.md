@@ -1,4 +1,4 @@
-# AWS Lambda with .NET and DynamoDB
+# AWS Lambda 
 
 This project demonstrates how to create and publish a .NET application using **AWS Lambda** integrated with **Amazon DynamoDB**.
 
