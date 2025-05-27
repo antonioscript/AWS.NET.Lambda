@@ -56,14 +56,8 @@ This project demonstrates how to create and publish a .NET application using **A
 
 
 
-
 ## NuGet Packages
 
-To enable interaction between your Lambda function and DynamoDB, install the following NuGet package:
-
 - [AWSSDK.DynamoDBv2](https://www.nuget.org/packages/AWSSDK.DynamoDBv2)
+- https://www.nuget.org/packages/Amazon.Lambda.APIGatewayEvents
 
-You can install it via the NuGet Package Manager or using the CLI:
-
-```bash
-dotnet add package AWSSDK.DynamoDBv2
