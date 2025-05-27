@@ -24,6 +24,14 @@ This project demonstrates how to create and publish a .NET application using **A
 
    ![Choose IAM Role](https://github.com/user-attachments/assets/065e220d-f360-4a71-8c4d-3d639e473cb2)
 
+4. Once uploaded, the Lambda function will appear in the AWS Console like this:
+
+   ![Lambda in Console](https://github.com/user-attachments/assets/3feb43e0-462c-43c9-ab71-0f377d3db622)
+
+   To test the function, simply click on **Test**:
+
+   ![Test Lambda](https://github.com/user-attachments/assets/154c3726-a6ff-46e3-9bf2-6b7075017d03)
+
 ## NuGet Packages
 
 To enable interaction between your Lambda function and DynamoDB, install the following NuGet package:
