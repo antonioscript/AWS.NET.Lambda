@@ -4,14 +4,25 @@ This project demonstrates how to create and publish a .NET application using **A
 
 ### Summary
 
-- [Lambda](#Publish-to-AWS-Lambda)
+- [Lambda](#Lambda)
 - [API Gateway](#API-Gateway)
 - [Test API](#Test-API)
 - [NuGet Packages](#NuGet-Packages)
 
-## Publish to AWS Lambda
+## Lambda
 
-### Steps to publish:
+### Create Project Visual Studio
+
+![image](https://github.com/user-attachments/assets/bc47ebca-ced9-4037-abe2-033be54604de)
+
+![image](https://github.com/user-attachments/assets/ce9d9963-3591-4bf5-b4b9-442dddc04fc6)
+
+![image](https://github.com/user-attachments/assets/366b44a9-0d38-427c-8c9b-0ea6be212f83)
+
+
+### Publish to AWS Lambda
+
+#### Steps to publish:
 
 1. **Right-click the project** in Solution Explorer and select:
 
