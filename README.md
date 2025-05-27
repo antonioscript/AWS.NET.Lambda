@@ -34,7 +34,7 @@ This project demonstrates how to create and publish a .NET application using **A
 
 ## API Gateway
 
-Create a route
+**Create a route**
 ![image](https://github.com/user-attachments/assets/ef5e67bd-10e2-4439-a606-3243acdfea0c)
 
 
