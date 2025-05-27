@@ -6,6 +6,7 @@ This project demonstrates how to create and publish a .NET application using **A
 
 - [Lambda](#Lambda)
 - [API Gateway](#API-Gateway)
+- [SQS](#SQS)
 - [Test API](#Test-API)
 - [NuGet Packages](#NuGet-Packages)
 
@@ -88,6 +89,15 @@ Click on stateges and take on Invoke URL
 Click on Triggers and Configuration
 
 ![image](https://github.com/user-attachments/assets/ac59b1c7-cd9d-44c4-81bc-1800423f98c7)
+
+
+## SQS
+
+![image](https://github.com/user-attachments/assets/7f1d643e-25b6-46a7-a993-01adffb5453e)
+
+
+### Create Project
+![image](https://github.com/user-attachments/assets/afbd000d-8b0c-4e6d-bdc3-e36e6859b727)
 
 
 ## Test API
