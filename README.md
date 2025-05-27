@@ -34,8 +34,27 @@ This project demonstrates how to create and publish a .NET application using **A
 
 ## API Gateway
 
-**Create a route**
+1. **Create a route**
+
 ![image](https://github.com/user-attachments/assets/ef5e67bd-10e2-4439-a606-3243acdfea0c)
+
+**2. Attach Integration**
+
+![image](https://github.com/user-attachments/assets/e4477341-668b-437a-9a22-6c605fb4c87e)
+
+3. **Choose Lambda Function to Integration type**
+
+![image](https://github.com/user-attachments/assets/45206901-cd3f-431b-abc0-2513239d7fde)
+
+4. **And choose the Lambda Function**
+
+![image](https://github.com/user-attachments/assets/fe412ee0-2261-4edd-902e-80295b2ec65a)
+
+5. **Result**
+
+![image](https://github.com/user-attachments/assets/de36cbce-d971-4c1c-98e0-4adf05ec2da6)
+
+
 
 
 ## NuGet Packages
